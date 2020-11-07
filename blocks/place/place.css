@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: 440px 2fr ;
+  grid-template-columns: 440px 2fr;
   gap: 40px;
   margin: 0 auto;
   padding-bottom: 80px;
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    grid-template-columns: 1fr  ;
+    grid-template-columns: 1fr;
     gap: 32px;
   }
 }
