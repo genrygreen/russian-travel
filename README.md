@@ -6,6 +6,7 @@
 * 1024px
 * 768px
 * 320px
+
 Что-то мне подсказывает, что есть ещё одно или два расширения под которые было бы круто адаптировать сайт.
 
 [Макет](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0) был в Фигме, работал в этом инструменте первый раз. Очень понравилось. Копировал стили для шрифтов прямо оттуда
@@ -17,6 +18,5 @@
 * Nested
 
 ### ссылка на проект
-https://genrygrin.github.io/russian-travel/index.html
-
+https://genrygreen.github.io/russian-travel/index.html
 Генри Грин 2020
