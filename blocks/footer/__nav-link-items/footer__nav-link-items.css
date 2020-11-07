@@ -1,0 +1,20 @@
+.footer__nav-link-items {
+  margin-right: 18px;
+}
+
+.footer__nav-link-items:last-of-type {
+  margin-right: 0;
+}
+
+@media (max-width: 320px) {
+  .footer__nav-link-items {
+    margin-right: 0;
+    margin-bottom: 18px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .footer__nav-link-items:last-of-type {
+    margin-bottom: 0;
+  }
+}
