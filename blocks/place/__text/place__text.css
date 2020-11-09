@@ -1,7 +1,13 @@
 .place__text {
-  min-height: 456px;
+  max-width: 484px;
   margin: 0;
   padding: 0;
+}
+
+@media (max-width: 1024px) {
+  .place__text{
+      max-width: 456px;
+  }
 }
 
 @media (max-width: 768px) {
