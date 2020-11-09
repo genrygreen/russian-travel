@@ -4,6 +4,7 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 768px) {

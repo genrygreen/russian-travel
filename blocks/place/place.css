@@ -10,9 +10,9 @@
   padding-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .place {
-    grid-template-columns: 2fr 340px;
+    grid-template-columns: 1fr;
     gap: 28px;
   }
 }

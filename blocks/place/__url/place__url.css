@@ -1,7 +1,13 @@
 .place__url {
-    max-width: 484px;
+    min-width: 352px;
     align-self: end;
     margin-bottom: 8px;
+}
+
+@media screen and (max-width: 768px){
+  .place__url {
+    width: 352px;
+  }
 }
 
 @media screen and (max-width: 320px){

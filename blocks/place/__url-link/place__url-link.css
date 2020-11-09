@@ -4,4 +4,10 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+.place__url-link:hover {
+  opacity: .8;
+  transition: opacity 0.3s linear 0s;
 }

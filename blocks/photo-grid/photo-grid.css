@@ -7,6 +7,8 @@
   padding: 0 48px;
 }
 
+/* На 1280 как раз 4 элемента в строку*/
+
 @media screen and (max-width: 1024px){
   .photo-grid {
   gap: 14px;
