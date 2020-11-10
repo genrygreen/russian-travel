@@ -6,7 +6,7 @@
   margin-right: 0;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .footer__nav-link-items {
     margin-bottom: 32px;
   }
